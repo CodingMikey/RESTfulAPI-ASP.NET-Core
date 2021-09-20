@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{B5E3528C-F3F6-4536-829E-4EB1831B6667}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseLibrary.API/Controllers/CoursesController.cs">
+    <Files>
+      <File FileName="CourseLibrary.API/Startup.cs" Line="39" Column="1" />
+      <File FileName="CourseLibrary.API/Services/CourseLibraryRepository.cs" />
+      <File FileName="CourseLibrary.API/Controllers/AuthorsController.cs" />
+      <File FileName="CourseLibrary.API/Program.cs" />
+      <File FileName="CourseLibrary.API/Controllers/CoursesController.cs" Line="31" Column="14" />
+      <File FileName="CourseLibrary.API/Profiles/CoursesProfile.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseLibrary.API" expanded="True">
+            <Node name="CourseLibrary.API" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CoursesController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Profiles" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CourseLibrary.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
