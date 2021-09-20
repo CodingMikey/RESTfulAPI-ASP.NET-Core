@@ -144,3 +144,5 @@ C:\Users\mgala\OneDrive\Desktop\Study\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\
 C:\Users\mgala\OneDrive\Desktop\Study\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.dll
 C:\Users\mgala\OneDrive\Desktop\Study\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.pdb
 C:\Users\mgala\OneDrive\Desktop\Study\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.genruntimeconfig.cache
+C:\Users\mgala\OneDrive\Desktop\Study\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\mgala\OneDrive\Desktop\Study\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
