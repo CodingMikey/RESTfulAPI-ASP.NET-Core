@@ -5,8 +5,8 @@
       <File FileName="CourseLibrary.API/Services/CourseLibraryRepository.cs" />
       <File FileName="CourseLibrary.API/Controllers/AuthorsController.cs" />
       <File FileName="CourseLibrary.API/Program.cs" />
-      <File FileName="CourseLibrary.API/Controllers/CoursesController.cs" Line="22" Column="39" />
-      <File FileName="CourseLibrary.API/Profiles/CoursesProfile.cs" Line="1" Column="1" />
+      <File FileName="CourseLibrary.API/Controllers/CoursesController.cs" Line="19" Column="1" />
+      <File FileName="CourseLibrary.API/Profiles/CoursesProfile.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +14,7 @@
           <Node name="CourseLibrary.API" expanded="True">
             <Node name="CourseLibrary.API" expanded="True">
               <Node name="Controllers" expanded="True">
-                <Node name="AuthorsController.cs" selected="True" />
+                <Node name="CoursesController.cs" selected="True" />
               </Node>
               <Node name="Models" expanded="True" />
               <Node name="Profiles" expanded="True" />
