@@ -158,5 +158,17 @@ namespace CourseLibrary.API.Services
                // dispose resources when needed
             }
         }
+
+        // Adding filter to GetAuthors API
+        public IEnumerable<Author> GetAuthors(string mainCategory)
+        {
+            if (string.IsNullOrWhiteSpace(mainCategory))
+            {
+                return GetAuthors();
+            }
+
+            mainCategory = mainCategory.Trim();
+            return _context.Authors.Where(a => a.MainCategory == mainCategory).ToList();
+        }
     }
 }

@@ -1,9 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/mg2019/.dotnet/store/|arch|/|tfm|",
-      "/Users/mg2019/.nuget/packages",
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Users\\MXGalas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MXGalas\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
 }
