@@ -16,6 +16,7 @@ namespace CourseLibrary.API.Helpers
             {
                 age--;
             }
+
             return age;
         }
     }
