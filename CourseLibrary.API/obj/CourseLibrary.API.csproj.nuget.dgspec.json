@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MXGalas\\Desktop\\RESTfulAPI-ASP.NET-Core\\CourseLibrary.API\\CourseLibrary.API.csproj": {}
+    "C:\\Users\\mgala\\OneDrive\\Desktop\\Coding Stuff\\RESTfulAPI-ASP.NET-Core\\CourseLibrary.API\\CourseLibrary.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MXGalas\\Desktop\\RESTfulAPI-ASP.NET-Core\\CourseLibrary.API\\CourseLibrary.API.csproj": {
+    "C:\\Users\\mgala\\OneDrive\\Desktop\\Coding Stuff\\RESTfulAPI-ASP.NET-Core\\CourseLibrary.API\\CourseLibrary.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MXGalas\\Desktop\\RESTfulAPI-ASP.NET-Core\\CourseLibrary.API\\CourseLibrary.API.csproj",
+        "projectUniqueName": "C:\\Users\\mgala\\OneDrive\\Desktop\\Coding Stuff\\RESTfulAPI-ASP.NET-Core\\CourseLibrary.API\\CourseLibrary.API.csproj",
         "projectName": "CourseLibrary.API",
-        "projectPath": "C:\\Users\\MXGalas\\Desktop\\RESTfulAPI-ASP.NET-Core\\CourseLibrary.API\\CourseLibrary.API.csproj",
-        "packagesPath": "C:\\Users\\MXGalas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MXGalas\\Desktop\\RESTfulAPI-ASP.NET-Core\\CourseLibrary.API\\obj\\",
+        "projectPath": "C:\\Users\\mgala\\OneDrive\\Desktop\\Coding Stuff\\RESTfulAPI-ASP.NET-Core\\CourseLibrary.API\\CourseLibrary.API.csproj",
+        "packagesPath": "C:\\Users\\mgala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mgala\\OneDrive\\Desktop\\Coding Stuff\\RESTfulAPI-ASP.NET-Core\\CourseLibrary.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\MXGalas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mgala\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com/kehe/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -73,6 +69,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.16, 3.1.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -81,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
         }
       }
     }

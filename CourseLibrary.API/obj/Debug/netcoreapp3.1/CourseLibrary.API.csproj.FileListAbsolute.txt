@@ -270,7 +270,6 @@ C:\Users\mgala\OneDrive\Desktop\Coding Stuff\RESTfulAPI-ASP.NET-Core\CourseLibra
 C:\Users\mgala\OneDrive\Desktop\Coding Stuff\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.csproj.CoreCompileInputs.cache
 C:\Users\mgala\OneDrive\Desktop\Coding Stuff\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mgala\OneDrive\Desktop\Coding Stuff\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\obj\Debug\netcoreapp3.1\staticwebassets\CourseLibrary.API.StaticWebAssets.Manifest.cache
-C:\Users\mgala\OneDrive\Desktop\Coding Stuff\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\obj\Debug\netcoreapp3.1\staticwebassets\CourseLibrary.API.StaticWebAssets.xml
 C:\Users\mgala\OneDrive\Desktop\Coding Stuff\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\CourseLibrary.API.styles.css
 C:\Users\mgala\OneDrive\Desktop\Coding Stuff\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.RazorTargetAssemblyInfo.cache
 C:\Users\mgala\OneDrive\Desktop\Coding Stuff\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.csproj.CopyComplete
@@ -342,3 +341,4 @@ C:\Users\MXGalas\Desktop\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\obj\Debug\net
 C:\Users\MXGalas\Desktop\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.dll
 C:\Users\MXGalas\Desktop\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.pdb
 C:\Users\MXGalas\Desktop\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.genruntimeconfig.cache
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\RESTfulAPI-ASP.NET-Core\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.GeneratedMSBuildEditorConfig.editorconfig
