@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CourseLibrary.API.ValidationAttributes
 {
-    public class CourseTitleMustBeDifferentThanDescriptionAttribute : ValidationAttribute
+    public class CourseTitleMustBeDifferentFromDescription : ValidationAttribute
     {
         protected override ValidationResult IsValid(object value, ValidationContext validationContext)
         {
