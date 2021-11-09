@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GYrEFww6x5ZJ8x67Y7k039FOqBXQ5BHv2rSRFptGl43xSFMBsduuAvzkz2ElSy3fx8HkYTXK1z8WeC/VJO0jtg==",
+  "dgSpecHash": "hXD6YVUI3OovIWQ9v9I5RDZ/WSdDP+D48YunKb7hjvtshQRyPHwPzx9MeJn4wYg5qyxzO68MUY5iyRUQPmdQgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mgala\\OneDrive\\Desktop\\Coding Stuff\\RESTfulAPI-ASP.NET-Core\\CourseLibrary.API\\CourseLibrary.API.csproj",
   "expectedPackageFiles": [
@@ -102,8 +102,7 @@
     "C:\\Users\\mgala\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\mgala\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\mgala\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\mgala\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\mgala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+    "C:\\Users\\mgala\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
